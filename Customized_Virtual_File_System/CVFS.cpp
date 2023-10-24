@@ -896,7 +896,7 @@ int main()
      fflush(stdin);
      strcpy(str,"");
      
-     printf("\n Rohit's VFS 👉️ ");
+     printf("\n Shubham's VFS");
      
      fgets(str,80,stdin); //scanf("%[^'\n']s",str);
      
@@ -927,7 +927,7 @@ int main()
         else if(strcmp(command[0],"exit") == 0)
         {
             
-            printf("Terminating the Rohit's Virtual File System\n");
+            printf("Terminating the Shubham's Virtual File System\n");
             break;
         }
         else 
