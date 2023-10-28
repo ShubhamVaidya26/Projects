@@ -12,7 +12,7 @@ class Packer
 
         Scanner sobj = new Scanner(System.in);
 
-        System.out.println("----------- Marvellous Packer Unpacker ----------- ");
+        System.out.println("----------- Packer Unpacker ----------- ");
         
         System.out.println("Packing Actvity of the appication is started...");
 
@@ -77,7 +77,7 @@ class Packer
                 System.out.println("Total number of files scanned : "+list.length);
                 System.out.println("Total number of files packes : "+PackCount);
 
-                System.out.println("Thank you for using Marvellous Packer Unpacker..");
+                System.out.println("Thank you for using Packer Unpacker..");
             }            
         }
         catch(Exception iobj)
